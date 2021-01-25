@@ -1,0 +1,9 @@
+# ignore figures folder
+/presentation/images/
+
+# ignore images
+*.png
+*.jpeg
+
+# ignore power point presentations
+*.pptx
